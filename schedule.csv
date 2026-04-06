@@ -1,0 +1,11 @@
+time,type,shift
+06:00,shift,shift1
+12:00,shift,shift1
+14:00,shift,shift2
+20:00,shift,shift2
+22:00,shift,shift3
+00:30,shift,shift3
+08:15,canteen,09
+09:30,canteen,10
+17:30,canteen,17
+18:20,canteen,0530
